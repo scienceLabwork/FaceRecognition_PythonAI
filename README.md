@@ -5,8 +5,9 @@ Here is a simple Example of FaceRecognition with cv2,numpy,face_recognition. It 
 this is fully designed and programmed by rudra shah
 
 # Sample photo
-Check This out!
+Check This out! </br>
 Sample output of my code
+
 ![sample](https://github-images1.s3.amazonaws.com/Screenshot+2020-01-18+at+8.24.38+PM.png)
 
 # My webpage
