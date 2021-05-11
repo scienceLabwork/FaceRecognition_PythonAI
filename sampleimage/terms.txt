@@ -1,0 +1,1 @@
+This image are for illustration purpose only! This face recognition code are adopted from python library face_recognition. Here I'm adding this image for face recogition and identifying face. Add just 5 lines of code and it will identify which face is. For any copyright issue, contact me at my developer mail-id.
